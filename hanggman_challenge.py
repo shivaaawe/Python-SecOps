@@ -24,7 +24,7 @@ while not game_over:
         guesses_left = 5 - num
         print(f"You have {guesses_left} guesses left")
         if num >=5 :
-            print("You are out of guesses. You Lost")
+            print("You are out of guesses. You Lose")
             game_over = True
     print(display_word)
 
