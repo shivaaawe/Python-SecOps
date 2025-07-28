@@ -7,3 +7,4 @@ admin1
 superadmin
 docs
 apiroute
+people
