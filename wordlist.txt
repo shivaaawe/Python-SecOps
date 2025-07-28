@@ -1,0 +1,9 @@
+api
+v1
+v2
+apidocs
+admin
+admin1
+superadmin
+docs
+apiroute
